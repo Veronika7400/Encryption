@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OS2_Projekt_Tvrdy/1.0.0": {
+        "runtime": {
+          "OS2_Projekt_Tvrdy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OS2_Projekt_Tvrdy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Veronika\Desktop\OS2_Projekt_Tvrdy\OS2_Projekt_Tvrdy\bin\Debug\net7.0-windows\OS2_Projekt_Tvrdy.exe
+C:\Users\Veronika\Desktop\OS2_Projekt_Tvrdy\OS2_Projekt_Tvrdy\bin\Debug\net7.0-windows\OS2_Projekt_Tvrdy.deps.json
+C:\Users\Veronika\Desktop\OS2_Projekt_Tvrdy\OS2_Projekt_Tvrdy\bin\Debug\net7.0-windows\OS2_Projekt_Tvrdy.runtimeconfig.json
+C:\Users\Veronika\Desktop\OS2_Projekt_Tvrdy\OS2_Projekt_Tvrdy\bin\Debug\net7.0-windows\OS2_Projekt_Tvrdy.dll
+C:\Users\Veronika\Desktop\OS2_Projekt_Tvrdy\OS2_Projekt_Tvrdy\bin\Debug\net7.0-windows\OS2_Projekt_Tvrdy.pdb
+C:\Users\Veronika\Desktop\OS2_Projekt_Tvrdy\OS2_Projekt_Tvrdy\obj\Debug\net7.0-windows\OS2_Projekt_Tvrdy.csproj.AssemblyReference.cache
+C:\Users\Veronika\Desktop\OS2_Projekt_Tvrdy\OS2_Projekt_Tvrdy\obj\Debug\net7.0-windows\OS2_Projekt_Tvrdy.Form1.resources
+C:\Users\Veronika\Desktop\OS2_Projekt_Tvrdy\OS2_Projekt_Tvrdy\obj\Debug\net7.0-windows\OS2_Projekt_Tvrdy.csproj.GenerateResource.cache
+C:\Users\Veronika\Desktop\OS2_Projekt_Tvrdy\OS2_Projekt_Tvrdy\obj\Debug\net7.0-windows\OS2_Projekt_Tvrdy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veronika\Desktop\OS2_Projekt_Tvrdy\OS2_Projekt_Tvrdy\obj\Debug\net7.0-windows\OS2_Projekt_Tvrdy.AssemblyInfoInputs.cache
+C:\Users\Veronika\Desktop\OS2_Projekt_Tvrdy\OS2_Projekt_Tvrdy\obj\Debug\net7.0-windows\OS2_Projekt_Tvrdy.AssemblyInfo.cs
+C:\Users\Veronika\Desktop\OS2_Projekt_Tvrdy\OS2_Projekt_Tvrdy\obj\Debug\net7.0-windows\OS2_Projekt_Tvrdy.csproj.CoreCompileInputs.cache
+C:\Users\Veronika\Desktop\OS2_Projekt_Tvrdy\OS2_Projekt_Tvrdy\obj\Debug\net7.0-windows\OS2_Projekt_Tvrdy.dll
+C:\Users\Veronika\Desktop\OS2_Projekt_Tvrdy\OS2_Projekt_Tvrdy\obj\Debug\net7.0-windows\refint\OS2_Projekt_Tvrdy.dll
+C:\Users\Veronika\Desktop\OS2_Projekt_Tvrdy\OS2_Projekt_Tvrdy\obj\Debug\net7.0-windows\OS2_Projekt_Tvrdy.pdb
+C:\Users\Veronika\Desktop\OS2_Projekt_Tvrdy\OS2_Projekt_Tvrdy\obj\Debug\net7.0-windows\OS2_Projekt_Tvrdy.genruntimeconfig.cache
+C:\Users\Veronika\Desktop\OS2_Projekt_Tvrdy\OS2_Projekt_Tvrdy\obj\Debug\net7.0-windows\ref\OS2_Projekt_Tvrdy.dll
